@@ -21,7 +21,11 @@ My name is **Nguyễn Tấn Hào**. I am currenly the senior student at **FPT Po
 
 # Connect with me
 
-### [Facebook](https://uddesh.me](https://www.facebook.com/profile.php?id=100033679207348))
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hali1814&show_icons=true&locale=en&layout=compact" alt="hali1814" /></p>
+### [Facebook](https://www.facebook.com/profile.php?id=100033679207348)
+<br/>
+<br/>
+<div align="center">
+  Thanks for watching my profile!<br/>
+  tanhao1852000@gmail.com or haops19073@fpt.edu.vn <br/>
+  &copy; 2022 Nguyen Tan Hao
+</div>
