@@ -5,7 +5,7 @@
 </div>
 
 # About Me
-My name is **Nguyễn Tấn Hào**. I am currenly the senior student at **FPT Polytechnic - HCM Campus** and my major is **information technology(Mobile)**. Recenly I am living at **Ho Chi Minh City, Viet Nam**. I am a newbie coder ^.^.
+My name is **Nguyễn Tấn Hào**.
 
 
 # Skills
